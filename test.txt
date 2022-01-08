@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x 1 JINI19 197121 0 Dec 29 17:52 High/
+drwxr-xr-x 1 JINI19 197121 0 Dec 18 15:31 Middle/
+drwxr-xr-x 1 JINI19 197121 0 Jan  8 19:34 test/
+-rw-r--r-- 1 JINI19 197121 0 Jan  8 19:57 test.txt
+drwxr-xr-x 1 JINI19 197121 0 Jan  8 19:57 test2/
